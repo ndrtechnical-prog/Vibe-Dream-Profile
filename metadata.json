@@ -1,0 +1,5 @@
+{
+  "name": "VibeWallpapers AI",
+  "description": "A mobile-first web app for generating unique phone wallpapers. Users describe their desired vibe, and the app generates 4 high-resolution variations in a 9:16 aspect ratio. Features include full-screen preview, one-tap download, and the ability to remix existing images to create new styles.",
+  "requestFramePermissions": []
+}
